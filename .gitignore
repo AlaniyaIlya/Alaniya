@@ -1,5 +1,5 @@
-Thumbs.d
-.DS_Store
+doc/*Thumbs.d
+doc/*.DS_Store
 *tmp
 *_old
 *_backup
